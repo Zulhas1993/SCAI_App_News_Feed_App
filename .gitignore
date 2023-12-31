@@ -1,0 +1,10 @@
+# Environments 
+.env
+venv/
+env/
+
+# Django #
+*.log
+*.pot
+*.pyc
+_pycache_
